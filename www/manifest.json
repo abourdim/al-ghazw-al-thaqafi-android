@@ -1,0 +1,12 @@
+{
+  "name": "Cultural Invasion — الغزو الثقافي",
+  "short_name": "الغزو الثقافي",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book — Build your intellectual shield",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ECEFF1",
+  "theme_color": "#263238",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
